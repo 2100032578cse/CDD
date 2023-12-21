@@ -1,1 +1,1 @@
-this is the repository for CDD works
+this is the repository for CDD work related
